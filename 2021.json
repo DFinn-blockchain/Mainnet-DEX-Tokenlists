@@ -1,0 +1,34 @@
+{
+  "name": "EDG-20 Tokens",
+  "logoURI": "https://www.edgeware.io/assets/press/edgeware-dark-logomark.svg",
+  "keywords": ["defi"],
+  "timestamp": "2023-07-16T10:01:26.458+00:00",
+  "tokens": [
+    {
+      "chainId": 2021,
+      "address": "0x457dE4e275A6b3C0D3750519221dD1dF19d54f01",
+      "name": "Wrapped EDG",
+      "symbol": "WEDG",
+      "decimals": 18
+    },
+    {
+      "chainId": 2021,
+      "address": "0x53a6d406BE460D9286B70b896eDdbf34F21cE277",
+      "name": "Binance USD",
+      "symbol": "BUSD",
+      "decimals": 18
+    },
+    {
+      "chainId": 2021,
+      "address": "0xC7d6744220a5982732701C2945dC243182BACAff",
+      "name": "Tether",
+      "symbol": "USDT",
+      "decimals": 18
+    }
+  ],
+  "version": {
+    "major": 270,
+    "minor": 0,
+    "patch": 0
+  }
+}
